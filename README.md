@@ -4,7 +4,7 @@ Ski googles that display your current speed using heads-up display technology
 ### Features
 - Arduino Nano board with i2C sensors
 - 3D printed design
-- Coded in C#
+- Coded in C++ (arduino)
 
 ### Finished product
 ![IMG_6687](https://github.com/Kunyro/skiGoggleHeadupDisplay/assets/61128297/0711426e-2712-4f34-a8bd-8bd6aeec1ab8)
